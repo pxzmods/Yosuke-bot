@@ -1,0 +1,6 @@
+[
+  {
+    "command": "play",
+    "info": "Este comando funcionar para pedir uma música, ex: #prefixo#play (Nome da música), o bot irá enviar a música.\n\nA música que não for baixado, é por que o arquivo é muito grande ou o YouTube privou ou algo do tipo."
+  }
+]
