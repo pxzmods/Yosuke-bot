@@ -2,8 +2,7 @@
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": 
-    "github:whiskeysockets/baileys"
+    "@whiskeysockets/baileys": "github:whiskeysockets/baileys",
     "acrcloud": "^1.4.0",
     "aki-api": "^x",
     "assemblyai": "^2.0.2",
