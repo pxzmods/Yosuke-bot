@@ -6,5 +6,6 @@
 
 
 
-
-Precisar de ajudar? chama lá https://wa.me/558598188647?text=Preciso%20de%20ajudar
+<p>
+Precisar de ajudar? chama lá https://wa.me/558598188647
+</p>
