@@ -2,7 +2,7 @@
 
 <div align="center">
 <img src="https://telegra.ph/file/e47c8712bac6b3ad67e0c.jpg" alt="Yosuke MD GERENCION - BOT wpp" width="300" />
-</div>
+</div><br>
 
 
 
