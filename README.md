@@ -1,3 +1,3 @@
-# • Yosuke-bot - Bot para whatsapp whatsapp 
+# Yosuke-bot - Bot para whatsapp whatsapp 
 
 
