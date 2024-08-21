@@ -42,4 +42,4 @@ cd /sdcard/yosuke-bot && sh start.eh
 [ Para se conectar com a bot e iniciar. ]
 
 
-Caso o bot desligar faça apenas o 5 comando.
+Caso o bot desligar faça apenas o 4 comando.
