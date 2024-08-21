@@ -35,8 +35,7 @@ cd /sdcard/ && git clone https://github.com/pxzmods/Yosuke-bot.git
 [ Vai instalar a bot no seu dispositivo. ]
 
 
-
-5° Comando: 
+4° Comando: 
 ```
 cd /sdcard/yosuke-bot && sh start.eh
 ```
