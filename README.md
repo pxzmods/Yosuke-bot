@@ -6,10 +6,41 @@
 
 
 
-<p>
-Precisar de ajudar? chama lá https://wa.me/558598188647
-</p>
+Primeiro instale o termux versão 119.0 é dps faça esses comandos.
+
+
+link termux: https://apkcombo.com/pt/termux/com.termux/old-versions/0.119.1/
+
+
+1 Comando:  
+```
+termux-setup-storage
+```
+[ Permita para acessar seu armazenamento. ]
 
 
 
-<p>Para instalar a Yosuke no whatsapp veja esse canal: https://www.youtube.com/@PxzModsConteudosOficial</p>
+2° Comando: 
+```
+pkg install git -y && apt update && apt upgrade 
+```
+[ Copiar todo e cola dentro do termux ]
+
+
+
+3° Comando: 
+```
+cd /sdcard/ && git clone https://github.com/pxzmods/Yosuke-bot.git
+```
+[ Vai instalar a bot no seu dispositivo. ]
+
+
+
+5° Comando: 
+```
+cd /sdcard/yosuke-bot && sh start.eh
+```
+[ Para se conectar com a bot e iniciar. ]
+
+
+Caso o bot desligar faça apenas o 5 comando.
