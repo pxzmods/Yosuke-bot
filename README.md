@@ -14,6 +14,11 @@
 link termux: https://apkcombo.com/pt/termux/com.termux/old-versions/0.119.1/
 
 
+
+### Segundo passo:
+
+*FAÇA OS COMANDOS EM ORDEM DENTRO DO TERMUX*
+
 1 Comando:  
 ```
 termux-setup-storage
