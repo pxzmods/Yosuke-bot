@@ -6,7 +6,9 @@
 
 
 
-Primeiro instale o termux versão 119.0 é dps faça esses comandos.
+### Primeiro passo:
+
+*instale o termux versão 119.0 é dps faça esses comandos.*
 
 
 link termux: https://apkcombo.com/pt/termux/com.termux/old-versions/0.119.1/
